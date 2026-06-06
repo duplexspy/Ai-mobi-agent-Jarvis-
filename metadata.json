@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI",
+  "description": "Multi-model autonomous AI assistant with screen understanding, automation workflows, AI content studio, memory hubs, and system control simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
